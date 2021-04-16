@@ -7,3 +7,7 @@
 ### git push origin main
 
 Use "git status" after every command
+
+### create new branch
+
+### git checkout -b branchName
