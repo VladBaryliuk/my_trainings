@@ -10,4 +10,8 @@ Use "git status" after every command
 
 ### create new branch
 
-### git checkout -b branchName
+#### git checkout -b branchName
+
+### merge into BranchName from BranchNameToMerge (go to BranchName and call the command) 
+
+#### git merge BranchNameToMerge
