@@ -15,3 +15,5 @@ Use "git status" after every command
 ### merge into BranchName from BranchNameToMerge (go to BranchName and call the command) 
 
 #### git merge BranchNameToMerge
+
+Name of commit -someTopic-task-description
