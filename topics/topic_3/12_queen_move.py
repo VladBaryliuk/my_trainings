@@ -4,5 +4,4 @@ def queen_move(x1, y1, x2, y2):
     else:
         print('NO')
 
-
 queen_move(int(input()), int(input()), int(input()), int(input()))
